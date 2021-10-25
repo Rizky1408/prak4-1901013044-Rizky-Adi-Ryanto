@@ -27,10 +27,10 @@ public class MainActivity extends AppCompatActivity {
     }
     private void addData() {
         mahasiswaArrayList = new ArrayList<>();
-        mahasiswaArrayList.add(new Mahasiswa("Agung", "1218019",
-                "2012"));
-        mahasiswaArrayList.add(new Mahasiswa("Abi", "1118002",
-                "2011"));
+        mahasiswaArrayList.add(new Mahasiswa("Agung", "19010440567",
+                "2019"));
+        mahasiswaArrayList.add(new Mahasiswa("Angga", "19203456",
+                "2019"));
         mahasiswaArrayList.add(new Mahasiswa("Yudis", "1118031",
                 "2011"));
     }
